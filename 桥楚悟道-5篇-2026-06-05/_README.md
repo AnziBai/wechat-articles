@@ -1,0 +1,15 @@
+# 桥楚悟道 · 5篇 · 2026-06-05
+
+- **公众号**：桥楚悟道
+- **视角口吻**：桥楚（桥博士第三人称）
+- **状态**：5篇全部已入草稿箱（概率5篇的悟道改造版：人称改第三人称 + 删《概率的朋友》封面推广块）
+- **选题依据**：基于历史阅读量数据（分水岭句式=本垒打、纪律/心态类均值最高、技术痛点为稳定底盘、对比决策式有效）
+- **反同质化**：5套骨架（A诊断/B悬念/C清单/D对比/E一问一答）各用一次
+
+| # | 文章 | 骨架 | Media ID |
+|---|------|------|----------|
+| 1 | [胜率80%还在亏钱？你忽略了一个比胜率重要10倍的数字](./%E8%83%9C%E7%8E%8780%25%E8%BF%98%E5%9C%A8%E4%BA%8F%E9%92%B1%EF%BC%9F%E4%BD%A0%E5%BF%BD%E7%95%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E6%AF%94%E8%83%9C%E7%8E%87%E9%87%8D%E8%A6%8110%E5%80%8D%E7%9A%84%E6%95%B0%E5%AD%97.md) | A 诊断式 | `II5llmkt1q2RezvjXgrpZMTmOKQjnre5uZcyzrz-KT01fPC-8FguUKf8CLkNGzrz` |
+| 2 | [每次都满仓梭哈？这是散户亏钱最快的方式](./%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%BB%A1%E4%BB%93%E6%A2%AD%E5%93%88%EF%BC%9F%E8%BF%99%E6%98%AF%E6%95%A3%E6%88%B7%E4%BA%8F%E9%92%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F.md) | C 清单工具 | `II5llmkt1q2RezvjXgrpZF99Sk7MnbuoPp-KrfKO-KXzhdmuOIV-jVCUph1WyPSj` |
+| 3 | [你只看日线做交易？难怪总在半山腰进场](./%E4%BD%A0%E5%8F%AA%E7%9C%8B%E6%97%A5%E7%BA%BF%E5%81%9A%E4%BA%A4%E6%98%93%EF%BC%9F%E9%9A%BE%E6%80%AA%E6%80%BB%E5%9C%A8%E5%8D%8A%E5%B1%B1%E8%85%B0%E8%BF%9B%E5%9C%BA.md) | D 对比测评 | `II5llmkt1q2RezvjXgrpZBoUTwepFILU1A6y8hqLGy4apQbEgk9HP919m4atK7kj` |
+| 4 | [没有交易系统的人，每天都在裸泳](./%E6%B2%A1%E6%9C%89%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E8%A3%B8%E6%B3%B3.md) | E 一问一答 | `II5llmkt1q2RezvjXgrpZBjwHG3oRCCb-B4coPmB7BhdCfgD15a-JnXhD66ctvUb` |
+| 5 | [你最赚钱的那笔交易，可能正在害你](./%E4%BD%A0%E6%9C%80%E8%B5%9A%E9%92%B1%E7%9A%84%E9%82%A3%E7%AC%94%E4%BA%A4%E6%98%93%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%AE%B3%E4%BD%A0.md) | B 悬念故事 | `II5llmkt1q2RezvjXgrpZIsnMxY0lYmPKPxiHEuu2DTadzP5O_57KcHSvmv2s6IH` |
